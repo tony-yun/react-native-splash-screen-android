@@ -13,6 +13,7 @@ import com.facebook.react.ReactPackage;
 import com.facebook.react.config.ReactFeatureFlags;
 import com.facebook.soloader.SoLoader;
 import com.splashtest.newarchitecture.MainApplicationReactNativeHost;
+import org.devio.rn.splashscreen.SplashScreenReactPackage;
 
 import expo.modules.ApplicationLifecycleDispatcher;
 import expo.modules.ReactNativeHostWrapper;
